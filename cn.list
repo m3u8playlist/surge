@@ -1,0 +1,17 @@
+#music
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,stat.3g.music.qq.com
+DOMAIN-SUFFIX,appmedia.qq.com
+DOMAIN-SUFFIX,cgi.connect.qq.com
+DOMAIN-SUFFIX,fusion.qq.com
+DOMAIN-SUFFIX,ios.rqd.qq.com
+DOMAIN-SUFFIX,y.gtimg.cn
+DOMAIN-SUFFIX,y.qq.com
+USER-AGENT,QIYI*
+USER-AGENT,iQiYi*
+DOMAIN-KEYWORD,qiyi
+DOMAIN-SUFFIX,qy.net
