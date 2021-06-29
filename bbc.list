@@ -1,6 +1,8 @@
 
 #bbc
 DOMAIN-SUFFIX,vs-hls-uk-live.akamaized.net
+DOMAIN-SUFFIX,vs-hls-push-uk-live.akamaized.net
+DOMAIN-SUFFIX,vs-hls-pushb-uk-live.akamaized.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,llnwd.net
